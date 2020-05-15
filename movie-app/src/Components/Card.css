@@ -1,0 +1,78 @@
+.Card {
+  padding: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #ffc425;
+  margin-top: 50px;
+}
+.Card:hover {
+  box-shadow: 10px;
+}
+
+.image {
+  width: 187px;
+  height: 245px;
+  border-radius: 8px;
+}
+p {
+  font-size: 11px;
+}
+h3 {
+  font-size: 16px;
+}
+span {
+  font-size: 11px;
+}
+.search {
+  background-color: #ffc425;
+  height: 80px;
+  margin-top: 50px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  align-items: center;
+  margin-left: 400px;
+  border-radius: 5px;
+}
+.add-btn {
+  margin-bottom: 10px;
+}
+.add-movie {
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.paragraphe {
+  width: 187px;
+  text-align: justify;
+}
+
+.add {
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+  border: #ffc425 2px solid;
+}
+.input {
+  height: 40px;
+  border: #ffc425 2px solid;
+}
+.starRating {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+.btn {
+  margin-bottom: 10px;
+  margin-left: 5px;
+  background-color: black;
+  color: white;
+}
+.btn-star {
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+  border: #ffc425 2px solid;
+}

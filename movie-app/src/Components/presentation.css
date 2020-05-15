@@ -1,0 +1,21 @@
+.affiche {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.description {
+  display: flex;
+
+  padding: 10px;
+}
+.font {
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 10px;
+}
+h2,
+h3 {
+  margin-left: 10px;
+}
+.component {
+  background-color: #ffc425;
+}

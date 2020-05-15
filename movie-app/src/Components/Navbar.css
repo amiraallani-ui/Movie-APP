@@ -1,0 +1,38 @@
+.Navbar {
+  background-color: #ffc425;
+  border: #ffc425 solid 1px;
+}
+.Navbar-style {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.Nav {
+  display: flex;
+}
+.searchbtn {
+  height: 26px;
+}
+.inscription {
+  display: flex;
+}
+h1 {
+  text-align: center;
+}
+.icon {
+  width: 30px;
+}
+li {
+  margin-left: 10px;
+}
+.input {
+  margin-bottom: 10px;
+}
+.icon-bobine {
+  width: 40px;
+}
+li {
+  text-decoration: none;
+}
